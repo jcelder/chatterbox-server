@@ -1,3 +1,5 @@
+var mockData = require('./data/mockObject.json');
+
 /*************************************************************
 
 You should implement your request handler function in this file.
@@ -82,8 +84,17 @@ var requestHandler = function(request, response) {
   if (request.url === '/classes/messages') {
     if (request.method === 'GET') {
       statusCode = 200;
+      responseBody = mockData;
     } else if (request.method === 'POST') {
       statusCode = 201;
+      let body = [];
+      request.on('data', (chunk) => {
+        body.push(chunk);
+      }).on('end', () => {
+        body = Buffer.concat(body).toString();
+        mockData.results.unshift(JSON.parse(body));
+      });
+      
     }
   } else {
     statusCode = 404;
