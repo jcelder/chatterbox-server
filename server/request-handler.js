@@ -1,3 +1,5 @@
+
+var uid = require('uid');
 var mockData = require('./data/mockObject.json');
 
 /*************************************************************
@@ -92,7 +94,11 @@ var requestHandler = function(request, response) {
         body.push(chunk);
       }).on('end', () => {
         body = Buffer.concat(body).toString();
-        mockData.results.unshift(JSON.parse(body));
+        body = JSON.parse(body);
+        body.createdAt = new Date();
+        body.updatedAt = new Date();
+        body.objectId = uid(10);
+        mockData.results.unshift(body);
       });
       
     }
