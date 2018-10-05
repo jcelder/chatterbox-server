@@ -1,0 +1,6 @@
+var Rooms = {
+  
+  roomNames: []
+  
+
+};
