@@ -66,6 +66,14 @@ describe('server', function() {
     });
   });
 
+  it('should pass the correct headers given an OPTIONS request', function(done) {
+    request.options('http://127.0.0.1:3000/classes/messages', function(error, response, body) {
+      expect(response.statusCode).to.equal(200);
+      expect(response.headers['allow']).to.equal('GET, POST, OPTIONS');
+      done();
+    });
+  });
+
   it('Should 404 when asked for a nonexistent endpoint', function(done) {
     request('http://127.0.0.1:3000/arglebargle', function(error, response, body) {
       expect(response.statusCode).to.equal(404);
