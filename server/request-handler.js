@@ -79,11 +79,11 @@ var requestHandler = function(request, response) {
   console.log('Serving request type ' + request.method + ' for url ' + request.url);
   var statusCode = 500;
   var headers = defaultCorsHeaders;
-  var responseBody = 'Hello, World';
-  headers['Content-Type'] = 'application/JSON';
+  var responseBody;
+  headers['Content-Type'] = 'application/json';
   
 
-  if (request.url === '/classes/messages') {
+  if (request.url.includes('/classes/messages')) {
     if (request.method === 'GET') {
       statusCode = 200;
       responseBody = mockData;
@@ -99,8 +99,10 @@ var requestHandler = function(request, response) {
         body.updatedAt = new Date();
         body.objectId = uid(10);
         mockData.results.unshift(body);
-      });
-      
+      }); 
+    } else if (request.method === 'OPTIONS') {
+      statusCode = 200;
+      headers['Allow'] = 'GET, POST, OPTIONS';
     }
   } else {
     statusCode = 404;
@@ -108,7 +110,11 @@ var requestHandler = function(request, response) {
   }
 
   response.writeHead(statusCode, headers);
-  response.end(JSON.stringify(responseBody));
+  if (responseBody === undefined) {
+    response.end();
+  } else {
+    response.end(JSON.stringify(responseBody));
+  }
 };
 
 module.exports.requestHandler = requestHandler;
