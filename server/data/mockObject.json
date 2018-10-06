@@ -1,0 +1,730 @@
+{
+    "results": [
+        {
+            "objectId": "CDLgc7jl9X",
+            "username": "Mr. Blue Sky",
+            "roomname": "",
+            "text": "Cool. Glad that helped. =D",
+            "createdAt": "2018-08-11T17:36:32.239Z",
+            "updatedAt": "2018-08-11T17:36:32.239Z"
+        },
+        {
+            "objectId": "sps1TvhmfZ",
+            "username": "Mr. Blue Sky",
+            "roomname": "Pikachu",
+            "text": "The soundtrack, however, remains COMPLETELY awesome.",
+            "createdAt": "2018-08-11T17:36:32.239Z",
+            "updatedAt": "2018-08-11T17:36:32.239Z"
+        },
+        {
+            "objectId": "OfYwxiNyFT",
+            "username": "bc",
+            "text": "",
+            "createdAt": "2018-08-11T17:36:35.404Z",
+            "updatedAt": "2018-08-11T17:36:35.404Z"
+        },
+        {
+            "objectId": "YxTuDTNnZY",
+            "username": "bc",
+            "text": "hiya",
+            "createdAt": "2018-08-11T17:36:35.460Z",
+            "updatedAt": "2018-08-11T17:36:35.460Z"
+        },
+        {
+            "objectId": "sxTEfXraaQ",
+            "username": "",
+            "roomname": "",
+            "text": "",
+            "createdAt": "2018-08-11T17:36:35.487Z",
+            "updatedAt": "2018-08-11T17:36:35.487Z"
+        },
+        {
+            "objectId": "obOGfq81O9",
+            "username": "beepboop",
+            "text": "gdfsgdg",
+            "createdAt": "2018-08-11T17:36:55.636Z",
+            "updatedAt": "2018-08-11T17:36:55.636Z"
+        },
+        {
+            "objectId": "L7V9CQy1ey",
+            "username": "bear",
+            "roomname": "4chan",
+            "text": "is it working?",
+            "createdAt": "2018-08-11T17:43:20.038Z",
+            "updatedAt": "2018-08-11T17:43:20.038Z"
+        },
+        {
+            "objectId": "dgkpldbcBR",
+            "username": "shawndrost",
+            "roomname": "4chan",
+            "text": "trololo",
+            "createdAt": "2018-08-11T17:43:20.038Z",
+            "updatedAt": "2018-08-11T17:43:20.038Z"
+        },
+        {
+            "objectId": "mJHVXpUNhC",
+            "username": "bear",
+            "roomname": "windows",
+            "text": "is it working?",
+            "createdAt": "2018-08-11T17:43:20.059Z",
+            "updatedAt": "2018-08-11T17:43:20.059Z"
+        },
+        {
+            "objectId": "xwRFZAtAOX",
+            "username": "b",
+            "roomname": "testing",
+            "text": "testing",
+            "createdAt": "2018-08-11T17:43:20.058Z",
+            "updatedAt": "2018-08-11T17:43:20.058Z"
+        },
+        {
+            "objectId": "OJWYPvQyap",
+            "username": "shawndrost",
+            "roomname": "4chan",
+            "text": "trololo",
+            "createdAt": "2018-08-11T17:43:20.058Z",
+            "updatedAt": "2018-08-11T17:43:20.058Z"
+        },
+        {
+            "objectId": "WK3DgfTwdh",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:43:20.078Z",
+            "updatedAt": "2018-08-11T17:43:20.078Z"
+        },
+        {
+            "objectId": "taX8u6Di5A",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:43:20.078Z",
+            "updatedAt": "2018-08-11T17:43:20.078Z"
+        },
+        {
+            "objectId": "CvPHJ1Bgtt",
+            "username": "Samwise the shepherd",
+            "roomname": "4chan",
+            "text": "",
+            "createdAt": "2018-08-11T17:43:20.078Z",
+            "updatedAt": "2018-08-11T17:43:20.078Z"
+        },
+        {
+            "objectId": "b0x4lEldkO",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:43:20.098Z",
+            "updatedAt": "2018-08-11T17:43:20.098Z"
+        },
+        {
+            "objectId": "YO8e3D0YSD",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:48:26.884Z",
+            "updatedAt": "2018-08-11T17:48:26.884Z"
+        },
+        {
+            "objectId": "Wc0MW1e0KZ",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:48:26.883Z",
+            "updatedAt": "2018-08-11T17:48:26.883Z"
+        },
+        {
+            "objectId": "VY1wv8eCBZ",
+            "createdAt": "2018-08-11T19:14:16.355Z",
+            "updatedAt": "2018-08-11T19:14:16.355Z"
+        },
+        {
+            "objectId": "LKvC5aAVXS",
+            "createdAt": "2018-08-11T19:14:16.466Z",
+            "updatedAt": "2018-08-11T19:14:16.466Z"
+        },
+        {
+            "objectId": "lAD305hwXZ",
+            "createdAt": "2018-08-11T19:14:16.654Z",
+            "updatedAt": "2018-08-11T19:14:16.654Z"
+        },
+        {
+            "objectId": "viBrIAqw1p",
+            "createdAt": "2018-08-11T19:14:16.864Z",
+            "updatedAt": "2018-08-11T19:14:16.864Z"
+        },
+        {
+            "objectId": "jqZmBwpkfI",
+            "createdAt": "2018-08-11T19:17:33.029Z",
+            "updatedAt": "2018-08-11T19:17:33.029Z"
+        },
+        {
+            "objectId": "aClL9si6qE",
+            "createdAt": "2018-08-11T19:17:33.623Z",
+            "updatedAt": "2018-08-11T19:17:33.623Z"
+        },
+        {
+            "objectId": "mrTg48TOGB",
+            "createdAt": "2018-08-11T19:17:36.953Z",
+            "updatedAt": "2018-08-11T19:17:36.953Z"
+        },
+        {
+            "objectId": "HIbwMmwj2E",
+            "createdAt": "2018-08-11T19:17:45.675Z",
+            "updatedAt": "2018-08-11T19:17:45.675Z"
+        },
+        {
+            "objectId": "Bu2LppiR12",
+            "createdAt": "2018-08-11T19:17:47.765Z",
+            "updatedAt": "2018-08-11T19:17:47.765Z"
+        },
+        {
+            "objectId": "M0z3aALOCG",
+            "createdAt": "2018-08-11T19:17:48.511Z",
+            "updatedAt": "2018-08-11T19:17:48.511Z"
+        },
+        {
+            "objectId": "0NDcbpqF5R",
+            "createdAt": "2018-08-11T19:17:50.572Z",
+            "updatedAt": "2018-08-11T19:17:50.572Z"
+        },
+        {
+            "objectId": "kKy43kXKhn",
+            "createdAt": "2018-08-11T19:17:51.527Z",
+            "updatedAt": "2018-08-11T19:17:51.527Z"
+        },
+        {
+            "objectId": "ULxxyd3tXO",
+            "createdAt": "2018-08-11T19:17:53.998Z",
+            "updatedAt": "2018-08-11T19:17:53.998Z"
+        },
+        {
+            "objectId": "IxJFPmjfbP",
+            "createdAt": "2018-08-11T19:21:38.298Z",
+            "updatedAt": "2018-08-11T19:21:38.298Z"
+        },
+        {
+            "objectId": "jsiKkEMQ2o",
+            "createdAt": "2018-08-11T19:32:30.207Z",
+            "updatedAt": "2018-08-11T19:32:30.207Z"
+        },
+        {
+            "objectId": "BlfYCrHLOB",
+            "createdAt": "2018-08-11T19:32:43.100Z",
+            "updatedAt": "2018-08-11T19:32:43.100Z"
+        },
+        {
+            "objectId": "ZdtXjKLyxn",
+            "username": "Tom",
+            "text": "Hello",
+            "createdAt": "2018-08-11T19:41:35.188Z",
+            "updatedAt": "2018-08-11T19:41:35.188Z"
+        },
+        {
+            "objectId": "HJC7O1V3fG",
+            "username": "Tom",
+            "text": "Hello",
+            "createdAt": "2018-08-11T19:41:44.685Z",
+            "updatedAt": "2018-08-11T19:41:44.685Z"
+        },
+        {
+            "objectId": "wLdYDHDK7e",
+            "username": "Tom",
+            "text": "Hello",
+            "createdAt": "2018-08-11T19:42:14.356Z",
+            "updatedAt": "2018-08-11T19:42:14.356Z"
+        },
+        {
+            "objectId": "KnvMtmbynB",
+            "username": "Tom",
+            "text": "fdgb",
+            "createdAt": "2018-08-11T19:42:30.404Z",
+            "updatedAt": "2018-08-11T19:42:30.404Z"
+        },
+        {
+            "objectId": "QU1IF2uFXC",
+            "createdAt": "2018-08-11T21:10:51.308Z",
+            "updatedAt": "2018-08-11T21:10:51.308Z"
+        },
+        {
+            "objectId": "TIbLHzRAdf",
+            "createdAt": "2018-08-11T21:15:47.455Z",
+            "updatedAt": "2018-08-11T21:15:47.455Z"
+        },
+        {
+            "objectId": "pHiFBkdB9u",
+            "createdAt": "2018-08-11T21:27:42.335Z",
+            "updatedAt": "2018-08-11T21:27:42.335Z"
+        },
+        {
+            "objectId": "DhTZFCckla",
+            "createdAt": "2018-08-11T21:27:45.917Z",
+            "updatedAt": "2018-08-11T21:27:45.917Z"
+        },
+        {
+            "objectId": "1mTEZ71xwi",
+            "username": null,
+            "roomname": null,
+            "text": null,
+            "createdAt": "2018-08-11T21:39:30.384Z",
+            "updatedAt": "2018-08-11T21:39:30.384Z"
+        },
+        {
+            "objectId": "Mf8hPSnDfG",
+            "username": null,
+            "roomname": null,
+            "text": null,
+            "createdAt": "2018-08-11T21:39:31.996Z",
+            "updatedAt": "2018-08-11T21:39:31.996Z"
+        },
+        {
+            "objectId": "1dzdeEj6to",
+            "username": null,
+            "roomname": null,
+            "text": null,
+            "createdAt": "2018-08-11T21:39:33.578Z",
+            "updatedAt": "2018-08-11T21:39:33.578Z"
+        },
+        {
+            "objectId": "Zb9936Jk1x",
+            "username": null,
+            "roomname": null,
+            "text": null,
+            "createdAt": "2018-08-11T21:39:34.135Z",
+            "updatedAt": "2018-08-11T21:39:34.135Z"
+        },
+        {
+            "objectId": "GCHpU5xRg4",
+            "username": "hello",
+            "roomname": "hello",
+            "text": "asdf",
+            "createdAt": "2018-08-11T22:06:31.439Z",
+            "updatedAt": "2018-08-11T22:06:31.439Z"
+        },
+        {
+            "objectId": "YfHbfx4jUG",
+            "username": "hello",
+            "roomname": "hello",
+            "text": "asdf",
+            "createdAt": "2018-08-11T22:06:33.571Z",
+            "updatedAt": "2018-08-11T22:06:33.571Z"
+        },
+        {
+            "objectId": "oN6GFwclgc",
+            "createdAt": "2018-06-23T02:16:08.451Z",
+            "updatedAt": "2018-06-23T02:16:08.451Z"
+        },
+        {
+            "objectId": "f5c1XqRWpp",
+            "createdAt": "2018-06-23T02:17:16.301Z",
+            "updatedAt": "2018-06-23T02:17:16.301Z"
+        },
+        {
+            "objectId": "VuKvkZiGJA",
+            "username": "hsadwa",
+            "roomname": "4chan",
+            "text": "trying to get friend thing to work but having trouble selecting stuff in my #chats ",
+            "createdAt": "2018-08-11T17:26:18.156Z",
+            "updatedAt": "2018-08-11T17:26:18.156Z"
+        },
+        {
+            "objectId": "zDalliztCY",
+            "username": "FakeName",
+            "roomname": "New Blank Room",
+            "text": "testing again",
+            "createdAt": "2018-08-11T17:26:34.871Z",
+            "updatedAt": "2018-08-11T17:26:34.871Z"
+        },
+        {
+            "objectId": "qGMWHaO0MP",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.818Z",
+            "updatedAt": "2018-08-11T17:27:39.818Z"
+        },
+        {
+            "objectId": "4GEyREQPlE",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.818Z",
+            "updatedAt": "2018-08-11T17:27:39.818Z"
+        },
+        {
+            "objectId": "8CeryO3bNW",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:27:39.833Z",
+            "updatedAt": "2018-08-11T17:27:39.833Z"
+        },
+        {
+            "objectId": "zmcExkdBRZ",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.833Z",
+            "updatedAt": "2018-08-11T17:27:39.833Z"
+        },
+        {
+            "objectId": "opAOBznyDC",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.833Z",
+            "updatedAt": "2018-08-11T17:27:39.833Z"
+        },
+        {
+            "objectId": "1EhUtUCYvJ",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.834Z",
+            "updatedAt": "2018-08-11T17:27:39.834Z"
+        },
+        {
+            "objectId": "HLHlaHboSZ",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.858Z",
+            "updatedAt": "2018-08-11T17:27:39.858Z"
+        },
+        {
+            "objectId": "CD2bVXpTmE",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.873Z",
+            "updatedAt": "2018-08-11T17:27:39.873Z"
+        },
+        {
+            "objectId": "jcfGGpjUZ0",
+            "username": "Samwise the shepherd",
+            "roomname": "4chan",
+            "text": "",
+            "createdAt": "2018-08-11T17:27:39.873Z",
+            "updatedAt": "2018-08-11T17:27:39.873Z"
+        },
+        {
+            "objectId": "7Awhq76hBZ",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:27:39.874Z",
+            "updatedAt": "2018-08-11T17:27:39.874Z"
+        },
+        {
+            "objectId": "6GjP4nuxZ3",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:28:46.160Z",
+            "updatedAt": "2018-08-11T17:28:46.160Z"
+        },
+        {
+            "objectId": "5H9qlCNGFC",
+            "username": "bc",
+            "roomname": "hi%20there",
+            "text": "hi%20there",
+            "createdAt": "2018-08-11T17:28:46.231Z",
+            "updatedAt": "2018-08-11T17:28:46.231Z"
+        },
+        {
+            "objectId": "DK7CjEG1Tv",
+            "username": "HiR",
+            "roomname": null,
+            "text": "<script>console.log('😢')</script>",
+            "createdAt": "2018-08-11T17:29:57.017Z",
+            "updatedAt": "2018-08-11T17:29:57.017Z"
+        },
+        {
+            "objectId": "um8BXG7Xop",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:30:22.768Z",
+            "updatedAt": "2018-08-11T17:30:22.768Z"
+        },
+        {
+            "objectId": "kwPqb3LDAK",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:30:22.768Z",
+            "updatedAt": "2018-08-11T17:30:22.768Z"
+        },
+        {
+            "objectId": "uVaqFp9PC3",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:30:22.797Z",
+            "updatedAt": "2018-08-11T17:30:22.797Z"
+        },
+        {
+            "objectId": "m7xsPV7wOn",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:30:22.845Z",
+            "updatedAt": "2018-08-11T17:30:22.845Z"
+        },
+        {
+            "objectId": "3bfiCrQThX",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.845Z",
+            "updatedAt": "2018-08-11T17:30:22.845Z"
+        },
+        {
+            "objectId": "vUkrBU8nBD",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.873Z",
+            "updatedAt": "2018-08-11T17:30:22.873Z"
+        },
+        {
+            "objectId": "SAs22zqRIP",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.873Z",
+            "updatedAt": "2018-08-11T17:30:22.873Z"
+        },
+        {
+            "objectId": "AVeUvgsrhd",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.900Z",
+            "updatedAt": "2018-08-11T17:30:22.900Z"
+        },
+        {
+            "objectId": "iiPBFBezcD",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.916Z",
+            "updatedAt": "2018-08-11T17:30:22.916Z"
+        },
+        {
+            "objectId": "4qpqIQMnjx",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.932Z",
+            "updatedAt": "2018-08-11T17:30:22.932Z"
+        },
+        {
+            "objectId": "EGRHc80xyv",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:22.960Z",
+            "updatedAt": "2018-08-11T17:30:22.960Z"
+        },
+        {
+            "objectId": "LyR3fV3DYm",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.024Z",
+            "updatedAt": "2018-08-11T17:30:23.024Z"
+        },
+        {
+            "objectId": "h1dPQ8E7HR",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.023Z",
+            "updatedAt": "2018-08-11T17:30:23.023Z"
+        },
+        {
+            "objectId": "iIuYsGAj3H",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.025Z",
+            "updatedAt": "2018-08-11T17:30:23.025Z"
+        },
+        {
+            "objectId": "IpH6OWtCnC",
+            "username": "Samwise the shepherd",
+            "roomname": "4chan",
+            "text": "",
+            "createdAt": "2018-08-11T17:30:23.060Z",
+            "updatedAt": "2018-08-11T17:30:23.060Z"
+        },
+        {
+            "objectId": "SiAL38aNHM",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.081Z",
+            "updatedAt": "2018-08-11T17:30:23.081Z"
+        },
+        {
+            "objectId": "p5peqhHjBn",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.081Z",
+            "updatedAt": "2018-08-11T17:30:23.081Z"
+        },
+        {
+            "objectId": "tyVJ5t2PM4",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.082Z",
+            "updatedAt": "2018-08-11T17:30:23.082Z"
+        },
+        {
+            "objectId": "Nk0xherNQC",
+            "username": "Samwise the shepherd",
+            "roomname": "4chan",
+            "text": "",
+            "createdAt": "2018-08-11T17:30:23.082Z",
+            "updatedAt": "2018-08-11T17:30:23.082Z"
+        },
+        {
+            "objectId": "f4iPm0MPq4",
+            "username": "shawndrost",
+            "roomname": "4chan",
+            "text": "trololo",
+            "createdAt": "2018-08-11T17:30:23.118Z",
+            "updatedAt": "2018-08-11T17:30:23.118Z"
+        },
+        {
+            "objectId": "xRtnhj3teG",
+            "username": "b",
+            "roomname": "testing",
+            "text": "testing",
+            "createdAt": "2018-08-11T17:30:23.137Z",
+            "updatedAt": "2018-08-11T17:30:23.137Z"
+        },
+        {
+            "objectId": "2Ei78REVRq",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.168Z",
+            "updatedAt": "2018-08-11T17:30:23.168Z"
+        },
+        {
+            "objectId": "8HQI3MFyZb",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.168Z",
+            "updatedAt": "2018-08-11T17:30:23.168Z"
+        },
+        {
+            "objectId": "phppbwi4PK",
+            "username": "bear",
+            "roomname": "4chan",
+            "text": "is it working?",
+            "createdAt": "2018-08-11T17:30:23.168Z",
+            "updatedAt": "2018-08-11T17:30:23.168Z"
+        },
+        {
+            "objectId": "oeQIDxPk2u",
+            "username": "shawndrost",
+            "roomname": "4chan",
+            "text": "trololo",
+            "createdAt": "2018-08-11T17:30:23.169Z",
+            "updatedAt": "2018-08-11T17:30:23.169Z"
+        },
+        {
+            "objectId": "t0BXBX0NJU",
+            "username": "bc",
+            "roomname": "hi%20there",
+            "text": "hi%20there",
+            "createdAt": "2018-08-11T17:30:23.206Z",
+            "updatedAt": "2018-08-11T17:30:23.206Z"
+        },
+        {
+            "objectId": "qyjqVlZx9a",
+            "username": "bc",
+            "text": "<script>$('body').append('<div>Ben says hi</div>')</script>",
+            "createdAt": "2018-08-11T17:30:23.223Z",
+            "updatedAt": "2018-08-11T17:30:23.223Z"
+        },
+        {
+            "objectId": "SeiRsentWT",
+            "username": "bear",
+            "roomname": "windows",
+            "text": "is it working?",
+            "createdAt": "2018-08-11T17:30:23.223Z",
+            "updatedAt": "2018-08-11T17:30:23.223Z"
+        },
+        {
+            "objectId": "wAtPJ2yer0",
+            "username": "bear",
+            "roomname": "lobby",
+            "text": "is it working?",
+            "createdAt": "2018-08-11T17:30:23.240Z",
+            "updatedAt": "2018-08-11T17:30:23.240Z"
+        },
+        {
+            "objectId": "VvtFWGABeu",
+            "username": "Samwise the class shepherd",
+            "roomname": "4chan",
+            "text": "I'm totally gonna XSS attack all of you",
+            "createdAt": "2018-08-11T17:30:23.247Z",
+            "updatedAt": "2018-08-11T17:30:23.247Z"
+        },
+        {
+            "objectId": "7VM6KPz18W",
+            "username": "Samwise the shepherd",
+            "roomname": "4chan",
+            "text": "Ayyyy LMAO",
+            "createdAt": "2018-08-11T17:30:23.248Z",
+            "updatedAt": "2018-08-11T17:30:23.248Z"
+        },
+        {
+            "objectId": "IhOC6rEgau",
+            "username": "blahblah",
+            "roomname": "blahblah",
+            "text": "<script>$('body').prepend('you got pwned by DAN & SAM')</script>",
+            "createdAt": "2018-08-11T17:30:23.260Z",
+            "updatedAt": "2018-08-11T17:30:23.260Z"
+        },
+        {
+            "objectId": "UnrFzBmS02",
+            "username": "ww",
+            "roomname": "default",
+            "text": "ee",
+            "createdAt": "2018-08-11T17:30:23.260Z",
+            "updatedAt": "2018-08-11T17:30:23.260Z"
+        },
+        {
+            "objectId": "3eae1YTEWN",
+            "username": "Mr. Blue Sky",
+            "roomname": "",
+            "text": "Da Wae?",
+            "createdAt": "2018-08-11T17:30:23.274Z",
+            "updatedAt": "2018-08-11T17:30:23.274Z"
+        },
+        {
+            "objectId": "he4IEJnLVd",
+            "username": "slowmike",
+            "roomname": "MichaelLin",
+            "text": "test",
+            "createdAt": "2018-08-11T17:30:23.274Z",
+            "updatedAt": "2018-08-11T17:30:23.274Z"
+        },
+        {
+            "objectId": "IBFGVUHSRF",
+            "username": "hsadwa",
+            "roomname": "4chan",
+            "text": "8th floor people wouldn't have XSS attacks",
+            "createdAt": "2018-08-11T17:30:23.288Z",
+            "updatedAt": "2018-08-11T17:30:23.288Z"
+        }
+    ]
+}
